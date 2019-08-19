@@ -14,5 +14,10 @@
 <input type="submit">
 </form>
 
+<form action="getPerson">
+<label>id:</label><input type="number" name="id"/><br/>
+<input type="submit">
+</form>
+
 </body>
 </html>
